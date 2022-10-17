@@ -10,4 +10,9 @@ I'm a dev who does stuff badly
   <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg">
 </a>
 
+## Nitroless
+> An app to send Nitro emotes from Nitroless repositories into discord chats
+
+[Get it here](https://github.com/nitroless/nitroless-apple)
+
 probably more to come
