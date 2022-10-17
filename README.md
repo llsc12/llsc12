@@ -3,6 +3,8 @@ I'm a dev who does stuff badly
 
 "its shit but it works" - me, just now
 
+^ this is a lie im pretty good at swift and swiftui and enough knowledge to embed swiftui in any other ui framework
+
 # Stuff I did
 ## WatchTube
 > An app to watch YouTube on the Apple Watch
