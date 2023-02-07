@@ -14,7 +14,11 @@ I'm a dev who does stuff badly
 
 ## Nitroless
 > An app to send Nitro emotes from Nitroless repositories into discord chats
+<a href="https://apps.apple.com/us/app/watchtube/id1599884909">
+  <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg">
+</a>
 
-[Get it here](https://github.com/nitroless/nitroless-apple)
+## iPod
+> Work in progress, modern iPod app recreation
 
-probably more to come
+[Get it here](https://github.com/llsc12/iPod)
