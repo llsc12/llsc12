@@ -23,4 +23,4 @@ viewrepresentables suck btw
 ## iPod
 > Work in progress, modern iPod app recreation
 
-[Get it here](https://github.com/llsc12/iPod)
+~~[Get it here](https://github.com/llsc12/iPod)~~ i made it private
