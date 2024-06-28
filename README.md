@@ -5,8 +5,7 @@ idk what to put here
 # Stuff I did
 ## WatchTube
 > ~~An app to watch YouTube on the Apple Watch~~ <br>
-WatchTube is in a weird state right now.
-I miss you Hugo
+WatchTube is currently unmaintained.
 
 ## DeltaTube
 > An app to watch YouTube on the Apple Watch, but it also has a lot of features!
