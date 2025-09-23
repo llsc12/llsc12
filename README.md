@@ -5,9 +5,9 @@ idk what to put here
 i like swift and swiftui, i hate py and js
 
 # Stuff I did
-## WatchTube
-> ~~An app to watch YouTube on the Apple Watch~~ <br>
-WatchTube is currently unmaintained.
+## Paicord
+> WIP native Discord client for iOS and macOS. Linux and windows soon maybe?
+> Still experimenting, repo will be available soon.
 
 ## DeltaTube
 > An app to watch YouTube on the Apple Watch, but it also has a lot of features!
