@@ -13,7 +13,7 @@ enjoy my work? please donate! thank you!
 
 ## DDBKit
 super cool declarative discord bot framework. still wip but now available<br>
-[Docs Preview](https://ddbkit.llsc12.me)
+[DDBKit](https://github.com/DDBKit/DDBKit) [DDBKit Docs](https://ddbkit.llsc12.me) 
 
 ## XRPC
 > good xcode rich presence<br>
