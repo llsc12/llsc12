@@ -1,27 +1,29 @@
 # gm
 
-idk what to put here
+i love swift and swiftui, i hate py and js but i do use them
 
-i like swift and swiftui, i hate py and js
+i enjoy making cool tools and apps. im definitely not the best but the fun is worth it <3
+
+enjoy my work? please donate! thank you!
 
 # Stuff I did
 ## Paicord
 > WIP native Discord client for iOS and macOS. Linux and windows soon maybe?
 > Still experimenting, repo will be available soon.
 
-## DeltaTube
-> An app to watch YouTube on the Apple Watch, but it also has a lot of features!
-<a href="https://testflight.apple.com/join/L4FzuAmE">
-  <img src="https://github.com/llsc12/llsc12/assets/42747613/f444510f-5a41-4fba-a7a6-f8ecf0d2bdbb" width=25%>
-</a>
+## DDBKit
+super cool declarative discord bot framework. still wip but now available<br>
+[Docs Preview](https://ddbkit.llsc12.me)
 
 ## XRPC
 > good xcode rich presence<br>
 [Repository](https://github.com/llsc12/XRPC)
 
-## DDBKit
-super cool declarative discord bot framework. still wip and not yet public, dm @llsc12 for early access<br>
-[Docs Preview](https://ddbkit.llsc12.me)
+## DeltaTube
+> An app to watch YouTube on the Apple Watch, but it also has a lot of features!
+<a href="https://testflight.apple.com/join/L4FzuAmE">
+  <img src="https://github.com/llsc12/llsc12/assets/42747613/f444510f-5a41-4fba-a7a6-f8ecf0d2bdbb" width=25%>
+</a>
 
 ## Meret
 a rewrite of my old ipod music app, with more features, better battery usage and performance, coverflow and more!<br>
