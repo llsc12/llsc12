@@ -9,7 +9,7 @@ enjoy my work? please donate! thank you!
 # Stuff I did
 ## Paicord
 > WIP native Discord client for iOS and macOS. Linux and windows soon maybe?
-> Now open source!
+> Now open source!<br>
 [Paicord](https://github.com/llsc12/Paicord)
 
 ## DDBKit
