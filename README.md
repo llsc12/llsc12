@@ -13,11 +13,11 @@ enjoy my work? please donate! thank you!
 [Paicord](https://github.com/llsc12/Paicord)
 
 ## DDBKit
-super cool declarative discord bot framework. still wip but now available<br>
+> super cool declarative discord bot framework. still wip but now open source!<br>
 [DDBKit](https://github.com/DDBKit/DDBKit) [DDBKit Docs](https://ddbkit.llsc12.me) 
 
 ## XRPC
-> good xcode rich presence<br>
+> good xcode rich presence that doesnt reopen xcode when you close it<br>
 [Repository](https://github.com/llsc12/XRPC)
 
 ## DeltaTube
