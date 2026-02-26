@@ -1,5 +1,3 @@
-# gm
-
 i love swift and swiftui, i hate py and js but i do use them
 
 i enjoy making cool tools and apps. im definitely not the best but the fun is worth it <3
@@ -11,6 +9,9 @@ enjoy my work? please donate! thank you!
 > WIP native Discord client for iOS and macOS. Linux and windows soon maybe?
 > Now open source!<br>
 [Paicord](https://github.com/llsc12/Paicord)
+
+
+<img width="1397" height="754" alt="image" src="https://github.com/user-attachments/assets/32110786-a44c-4e2d-8072-10795aff9bd0" />
 
 ## DDBKit
 > super cool declarative discord bot framework. still wip but now open source!<br>
