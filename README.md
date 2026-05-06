@@ -21,6 +21,10 @@ enjoy my work? please donate! thank you!
 > good xcode rich presence that doesnt reopen xcode when you close it<br>
 [Repository](https://github.com/llsc12/XRPC)
 
+## SwitchRPC
+> RPC tool for Nintendo Switch, has some Swift in it!<br>
+[SwitchRPC](https://github.com/llsc12/SwitchRPC)
+
 ## DeltaTube
 > An app to watch YouTube on the Apple Watch, but it also has a lot of features!
 <a href="https://testflight.apple.com/join/L4FzuAmE">
